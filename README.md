@@ -4,6 +4,9 @@
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
 ![snippet](img/snippet.png)
 
+Result modal will look like this:
+![snippet](img/snippet2.png)
+
 ## Challenge
 Match cards in less time with less moves.
 
