@@ -2,10 +2,6 @@
 
 ## What is the Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
-![snippet](img/snippet.png)
-
-Result modal will look like this:
-![snippet](img/snippet2.png)
 
 ## Challenge
 Match cards in less time with less moves.
@@ -14,7 +10,7 @@ Match cards in less time with less moves.
 * Click on a card
 * Keep revealing cards and working your memory to remember each unveiled card.
 * Match cards properly with less moves and in faster time
-
+* To Play this Game : Clone this Repository and Run with Live Server.
 
 ## How I built the Memory Game
 I manipulated the DOM with Vanilla JS, altered part of the HTML and also styled the game
